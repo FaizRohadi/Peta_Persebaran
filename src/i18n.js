@@ -1,0 +1,177 @@
+export const T = {
+  id: {
+    // NAV
+    nav_home: "Beranda",
+    nav_map: "Peta",
+    nav_stats: "Statistik",
+    brand_sub: "TPBW Kota Bandung",
+
+    // LANDING HERO
+    hero_badge: "Data TPBW 2026 — Kota Bandung",
+    hero_title_1: "Peta Sebaran",
+    hero_title_2: "Minimarket",
+    hero_sub: "Sistem informasi geospasial persebaran gerai minimarket di Kota Bandung. Visualisasi interaktif dengan radius cakupan 1 km, live tracking lokasi terdekat, dan analisis statistik lengkap.",
+    hero_btn_map: "Lihat Peta",
+    hero_btn_stats: "Statistik",
+
+    // STATS STRIP
+    total_locations: "Total Lokasi",
+    total_districts: "Kecamatan",
+
+    // WHAT IS MINIMARKET
+    section_what: "Apa itu Minimarket?",
+    section_what_sub: "Gerai ritel modern berskala kecil yang tersebar di seluruh penjuru kota",
+    what_intro: "Minimarket adalah toko ritel modern berukuran kecil hingga menengah yang menjual berbagai kebutuhan sehari-hari seperti makanan, minuman, produk rumah tangga, dan produk konsumen lainnya. Berbeda dengan pasar tradisional, minimarket beroperasi dengan sistem swalayan (self-service), kasir elektronik, dan standar kebersihan yang terjaga.",
+    feat_hours: "Buka 24 Jam",
+    feat_hours_d: "Sebagian besar minimarket beroperasi 24 jam, 7 hari seminggu",
+    feat_products: "Produk Lengkap",
+    feat_products_d: "Ribuan SKU mencakup kebutuhan pangan, sandang, hingga obat-obatan",
+    feat_payment: "Pembayaran Modern",
+    feat_payment_d: "Mendukung kartu debit, kredit, dompet digital, dan QRIS",
+    feat_location: "Lokasi Strategis",
+    feat_location_d: "Ditempatkan dekat permukiman warga untuk kemudahan akses",
+
+    // GERAI SECTION
+    section_gerai: "Profil Jaringan Minimarket",
+    section_gerai_sub: "Enam jaringan minimarket yang beroperasi di Kota Bandung",
+    stores_bandung: "Gerai di Bandung",
+    year_founded: "Tahun Berdiri",
+    national_stores: "Gerai Nasional",
+
+    // GERAI DESC
+    indomaret_desc: "Indomaret adalah jaringan minimarket waralaba terbesar di Indonesia milik PT Indomarco Prismatama (Salim Group). Dikenal dengan seragam merah putih khasnya dan konsep 'mudah dan hemat', Indomaret hadir di setiap sudut kota dengan ribuan produk termasuk Private Label eksklusif.",
+    alfamart_desc: "Alfamart (PT Sumber Alfaria Trijaya Tbk) adalah minimarket ritel bertema biru-merah yang terkenal dengan program loyalitas AlfaGift dan layanan pembayaran tagihan lengkap (listrik, BPJS, pulsa). Jaringannya tersebar di lebih dari 400 kota di Indonesia.",
+    yomart_desc: "Yomart adalah jaringan minimarket lokal asli Jawa Barat yang berpusat di Bandung, dioperasikan oleh PT Yomart Nusantara. Dengan tema hijau-kuning khasnya, Yomart menjadi andalan warga Bandung sebagai alternatif minimarket lokal yang terjangkau dan dekat dengan komunitas.",
+    lawson_desc: "Lawson adalah jaringan convenience store asal Jepang yang beroperasi di Indonesia sejak 2011 melalui PT Midi Utama Indonesia. Dikenal dengan konsep toko Japan-style, Lawson menawarkan produk ready-to-eat (onigiri, bento) dan kopi Lawson Station yang khas.",
+    circlek_desc: "Circle K adalah convenience store internasional asal Amerika Serikat (Alimentation Couche-Tard) yang hadir di Indonesia sejak 1986. Beroperasi 24 jam dan dikenal dengan minuman Frozone/Polar Pop serta produk impor berkualitas.",
+    indomaretfresh_desc: "Indomaret Fresh adalah varian premium dari Indomaret yang menawarkan produk segar (fresh produce), deli, dan bakery dengan konsep toko yang lebih luas dan modern. Menarget segmen konsumen menengah ke atas.",
+
+    // EXPLORE
+    section_explore: "Jelajahi Dashboard",
+    explore_map_title: "Peta Persebaran",
+    explore_map_desc: "Titik lokasi interaktif, radius 1 km, dan live tracking minimarket terdekat dari posisi Anda",
+    explore_stats_title: "Statistik",
+    explore_stats_desc: "Distribusi per gerai, persebaran kecamatan, dan analisis kualitas geocoding",
+
+    // MAP PAGE
+    map_filter: "Filter Peta",
+    map_search: "Cari Alamat / Kelurahan",
+    map_search_ph: "Ketik nama jalan...",
+    map_kec: "Kecamatan",
+    map_kec_all: "Semua Kecamatan",
+    map_gerai: "Gerai",
+    map_gerai_all: "Semua",
+    map_radius: "Radius 1 km",
+    map_reset: "↺ Reset Filter",
+    map_legend: "Legenda",
+    map_showing: "dari",
+    map_locations: "lokasi",
+
+    // TRACKING
+    track_title: "Live Tracking",
+    track_start: "Lacak Lokasi Saya",
+    track_stop: "⏹ Stop Tracking",
+    track_err: "Akses lokasi ditolak. Izinkan di browser.",
+    track_accuracy: "Akurasi",
+    track_nearest: "Minimarket Terdekat",
+    track_walk: "mnt berjalan",
+    track_dist_popup: "dari lokasi Anda",
+
+    // STATS PAGE
+    stats_title: "Statistik",
+    stats_sub: "Ringkasan data minimarket Kota Bandung",
+    stats_total: "Total Minimarket",
+    stats_all: "Seluruh gerai",
+    stats_geocode: "Sukses Geocoding",
+    stats_exact: "exact match",
+    stats_premium: "Varian premium",
+    stats_spread: "Tersebar di wilayah",
+    stats_dist_gerai: "Distribusi Gerai",
+    stats_geocode_status: "Status Geocoding",
+    stats_query_note: "Query: ALAMAT → KELURAHAN → KECAMATAN (cascade fallback)",
+    stats_per_kec: "Persebaran per Kecamatan",
+  },
+
+  en: {
+    nav_home: "Home",
+    nav_map: "Map",
+    nav_stats: "Statistics",
+    brand_sub: "TPBW Bandung City",
+
+    hero_badge: "TPBW Data 2024 — Bandung City",
+    hero_title_1: "Distribution Map",
+    hero_title_2: "Minimarkets",
+    hero_sub: "A geospatial information system for minimarket distribution across Bandung City. Interactive visualization with 1 km radius coverage, live nearest-store tracking, and comprehensive statistical analysis.",
+    hero_btn_map: "View Map",
+    hero_btn_stats: "Statistics",
+
+    total_locations: "Total Locations",
+    total_districts: "Districts",
+
+    section_what: "What is a Minimarket?",
+    section_what_sub: "A modern small-scale retail outlet spread throughout the city",
+    what_intro: "A minimarket is a modern small-to-medium retail store selling everyday necessities such as food, beverages, household products, and various consumer goods. Unlike traditional markets, minimarkets operate on a self-service model with electronic cashiers and maintained cleanliness standards.",
+    feat_hours: "Open 24 Hours",
+    feat_hours_d: "Most minimarkets operate 24 hours a day, 7 days a week",
+    feat_products: "Complete Products",
+    feat_products_d: "Thousands of SKUs covering food, clothing, and pharmaceutical needs",
+    feat_payment: "Modern Payment",
+    feat_payment_d: "Supports debit/credit cards, digital wallets, and QRIS",
+    feat_location: "Strategic Location",
+    feat_location_d: "Positioned near residential areas for easy community access",
+
+    section_gerai: "Minimarket Chain Profiles",
+    section_gerai_sub: "Six minimarket networks operating in Bandung City",
+    stores_bandung: "Stores in Bandung",
+    year_founded: "Founded",
+    national_stores: "National Stores",
+
+    indomaret_desc: "Indomaret is Indonesia's largest franchise minimarket chain, operated by PT Indomarco Prismatama (Salim Group). Known for its iconic red-and-white uniform and 'easy and affordable' concept, Indomaret is present in every corner of the city with thousands of products including exclusive Private Label items.",
+    alfamart_desc: "Alfamart (PT Sumber Alfaria Trijaya Tbk) is a blue-and-red themed retail minimarket known for its AlfaGift loyalty program and comprehensive bill payment services (electricity, BPJS, mobile top-up). Its network spans over 400 cities across Indonesia.",
+    yomart_desc: "Yomart is an authentic West Java local minimarket chain headquartered in Bandung, operated by PT Yomart Nusantara. With its distinctive green-yellow theme, Yomart serves as Bandung residents' go-to local minimarket alternative — affordable and community-oriented.",
+    lawson_desc: "Lawson is a Japanese-origin convenience store chain operating in Indonesia since 2011 through PT Midi Utama Indonesia. Known for its Japan-style store concept, Lawson offers ready-to-eat products (onigiri, bento) and the iconic Lawson Station coffee.",
+    circlek_desc: "Circle K is an international American convenience store chain (Alimentation Couche-Tard) present in Indonesia since 1986. Operating 24 hours and known for Frozone/Polar Pop drinks and quality imported products.",
+    indomaretfresh_desc: "Indomaret Fresh is a premium variant of Indomaret offering fresh produce, deli, and bakery products with a larger, more modern store concept. It targets middle-to-upper consumer segments.",
+
+    section_explore: "Explore Dashboard",
+    explore_map_title: "Distribution Map",
+    explore_map_desc: "Interactive location points, 1 km radius circles, and live tracking of the nearest minimarket from your position",
+    explore_stats_title: "Statistics",
+    explore_stats_desc: "Distribution by chain, district coverage, and geocoding quality analysis",
+
+    map_filter: "Map Filter",
+    map_search: "Search Address / Village",
+    map_search_ph: "Type street name...",
+    map_kec: "District",
+    map_kec_all: "All Districts",
+    map_gerai: "Chain",
+    map_gerai_all: "All",
+    map_radius: "1 km Radius",
+    map_reset: "↺ Reset Filter",
+    map_legend: "Legend",
+    map_showing: "of",
+    map_locations: "locations",
+
+    track_title: "Live Tracking",
+    track_start: "Track My Location",
+    track_stop: "⏹ Stop Tracking",
+    track_err: "Location access denied. Please allow in browser.",
+    track_accuracy: "Accuracy",
+    track_nearest: "Nearest Minimarkets",
+    track_walk: "min walk",
+    track_dist_popup: "from your location",
+
+    stats_title: "Statistics",
+    stats_sub: "Minimarket data summary for Bandung City",
+    stats_total: "Total Minimarkets",
+    stats_all: "All chains",
+    stats_geocode: "Geocoding Success",
+    stats_exact: "exact match",
+    stats_premium: "Premium variant",
+    stats_spread: "Spread across districts",
+    stats_dist_gerai: "Chain Distribution",
+    stats_geocode_status: "Geocoding Status",
+    stats_query_note: "Query: ADDRESS → VILLAGE → DISTRICT (cascade fallback)",
+    stats_per_kec: "Distribution by District",
+  }
+};

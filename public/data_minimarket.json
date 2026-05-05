@@ -28,8 +28,8 @@
     "kelurahan": "CISURUPAN",
     "gerai": "INDOMARET",
     "alamat": "JL. CILENGKRANG 1",
-    "lat": -6.8959465,
-    "lon": 107.7297504,
+    "lat": -6.8978661,
+    "lon": 107.7262849,
     "geo_status": "EXACT"
   },
   {
@@ -50,8 +50,8 @@
     "kelurahan": "PALASARI",
     "gerai": "INDOMARET",
     "alamat": "JL. CILENGKRANG II NO. 11",
-    "lat": -6.9230472,
-    "lon": 107.7130216,
+    "lat": -6.9149247,
+    "lon": 107.7208109,
     "geo_status": "EXACT"
   },
   {
@@ -61,8 +61,8 @@
     "kelurahan": "ARJUNA",
     "gerai": "INDOMARET",
     "alamat": "JL. PASIRKALIKI NO 65",
-    "lat": -6.9125028,
-    "lon": 107.6013092,
+    "lat": -6.9098604,
+    "lon": 107.6041676,
     "geo_status": "EXACT"
   },
   {
@@ -72,8 +72,8 @@
     "kelurahan": "ARJUNA",
     "gerai": "INDOMARET",
     "alamat": "JL. PAJAJARAN NO 112",
-    "lat": -6.9069716,
-    "lon": 107.5894225,
+    "lat": -6.9070828,
+    "lon": 107.6029845,
     "geo_status": "EXACT"
   },
   {
@@ -83,8 +83,8 @@
     "kelurahan": "PAJAJARAN",
     "gerai": "INDOMARET",
     "alamat": "JL. BALADEWA",
-    "lat": -6.9042525,
-    "lon": 107.5904477,
+    "lat": -6.9010669,
+    "lon": 107.5908153,
     "geo_status": "EXACT"
   },
   {
@@ -94,8 +94,8 @@
     "kelurahan": "PASIRKALIKI",
     "gerai": "INDOMARET",
     "alamat": "JL. KEBON KAWUNG NO.44",
-    "lat": -6.9123501,
-    "lon": 107.5981029,
+    "lat": -6.9126851,
+    "lon": 107.6040138,
     "geo_status": "EXACT"
   },
   {
@@ -116,8 +116,8 @@
     "kelurahan": "SUKARAJA",
     "gerai": "INDOMARET",
     "alamat": "JL. AMIR MACHMUD",
-    "lat": -6.8932563,
-    "lon": 107.5586603,
+    "lat": -6.9018066,
+    "lon": 107.5638786,
     "geo_status": "EXACT"
   },
   {
@@ -149,8 +149,8 @@
     "kelurahan": "ISOLA",
     "gerai": "INDOMARET",
     "alamat": "JL.GEGER KALONG GIRANG",
-    "lat": -6.8900752,
-    "lon": 107.5805675,
+    "lat": -6.8892912,
+    "lon": 107.5887051,
     "geo_status": "KECAMATAN"
   },
   {
@@ -171,8 +171,8 @@
     "kelurahan": "SARIJADI",
     "gerai": "INDOMARET",
     "alamat": "JL. SARIMANIS",
-    "lat": -6.8785427,
-    "lon": 107.5744575,
+    "lat": -6.879206,
+    "lon": 107.5759063,
     "geo_status": "EXACT"
   },
   {
@@ -226,8 +226,8 @@
     "kelurahan": "KEBON JERUK",
     "gerai": "INDOMARET",
     "alamat": "JL. SUNIARAJA, JL. KEBON JATI,JL. GARDUJATI, JL SARITEM, KOMP. PASKAL HYPERSQUARE",
-    "lat": -6.9156993,
-    "lon": 107.6052484,
+    "lat": -6.9154849,
+    "lon": 107.6062665,
     "geo_status": "EXACT"
   },
   {
@@ -270,8 +270,8 @@
     "kelurahan": "BINONG",
     "gerai": "INDOMARET",
     "alamat": "JL. IBRAHIM ADJIE",
-    "lat": -6.9135227,
-    "lon": 107.643646,
+    "lat": -6.9137193,
+    "lon": 107.6436645,
     "geo_status": "EXACT"
   },
   {
@@ -281,8 +281,8 @@
     "kelurahan": "MALEER",
     "gerai": "INDOMARET",
     "alamat": "JL. GATOT SUBROTO NO.289",
-    "lat": -6.9225477,
-    "lon": 107.6188122,
+    "lat": -6.9226197,
+    "lon": 107.6195684,
     "geo_status": "EXACT"
   },
   {
@@ -292,8 +292,8 @@
     "kelurahan": "CIBANGKONG",
     "gerai": "INDOMARET",
     "alamat": "JL. GATOT SUBROTO NO.245-257",
-    "lat": -6.931054,
-    "lon": 107.6412529,
+    "lat": -6.9262488,
+    "lon": 107.6334999,
     "geo_status": "EXACT"
   },
   {
@@ -303,8 +303,8 @@
     "kelurahan": "SUKAMULYA",
     "gerai": "INDOMARET",
     "alamat": "JL. RUMAH SAKIT",
-    "lat": -6.9147853,
-    "lon": 107.6993878,
+    "lat": -6.898179,
+    "lon": 107.5993518,
     "geo_status": "EXACT"
   },
   {
@@ -325,8 +325,8 @@
     "kelurahan": "CISARANTEN WETAN",
     "gerai": "INDOMARET",
     "alamat": "JL. CINAMBO",
-    "lat": -6.9250013,
-    "lon": 107.6844262,
+    "lat": -6.9249521,
+    "lon": 107.6866163,
     "geo_status": "EXACT"
   },
   {
@@ -336,8 +336,8 @@
     "kelurahan": "BRAGA",
     "gerai": "INDOMARET",
     "alamat": "JL. NARIPANÂ  NO. 42 BANDUNG",
-    "lat": -6.9199256,
-    "lon": 107.6111792,
+    "lat": -6.9204199,
+    "lon": 107.6137708,
     "geo_status": "EXACT"
   },
   {
@@ -347,8 +347,8 @@
     "kelurahan": "KEBON PISANG",
     "gerai": "INDOMARET",
     "alamat": "JL. NARIPAN NO.42",
-    "lat": -6.9199256,
-    "lon": 107.6111792,
+    "lat": -6.9204199,
+    "lon": 107.6137708,
     "geo_status": "EXACT"
   },
   {
@@ -402,8 +402,8 @@
     "kelurahan": "MERDEKA",
     "gerai": "INDOMARET FRESH",
     "alamat": "JL. SUNDA NO.89",
-    "lat": -6.9215935,
-    "lon": 107.6177127,
+    "lat": -6.9227343,
+    "lon": 107.6175978,
     "geo_status": "EXACT"
   },
   {
@@ -424,8 +424,8 @@
     "kelurahan": "KARANG ANYAR",
     "gerai": "INDOMARET",
     "alamat": "JL. JENDRAL SUDIRMAN NO. 115",
-    "lat": -6.9127874,
-    "lon": 107.570514,
+    "lat": -6.9131197,
+    "lon": 107.5706178,
     "geo_status": "EXACT"
   },
   {
@@ -435,8 +435,8 @@
     "kelurahan": "PANJUNAN",
     "gerai": "INDOMARET",
     "alamat": "JL. TERUSAN PASIRKOJA",
-    "lat": -6.9301878,
-    "lon": 107.6003396,
+    "lat": -6.932392,
+    "lon": 107.5997973,
     "geo_status": "KELURAHAN"
   },
   {
@@ -446,8 +446,8 @@
     "kelurahan": "PELINDUNG HEWAN",
     "gerai": "INDOMARET",
     "alamat": "JL. INHOFTANK NO. 48-49",
-    "lat": -6.9377419,
-    "lon": 107.6030548,
+    "lat": -6.9373857,
+    "lon": 107.6030445,
     "geo_status": "EXACT"
   },
   {
@@ -457,8 +457,8 @@
     "kelurahan": "PELINDUNG HEWAN",
     "gerai": "INDOMARET",
     "alamat": "JL. PELINDUNG HEWAN",
-    "lat": -6.9377419,
-    "lon": 107.6030548,
+    "lat": -6.938943,
+    "lon": 107.6036752,
     "geo_status": "EXACT"
   },
   {
@@ -479,8 +479,8 @@
     "kelurahan": "CIGADUNG",
     "gerai": "INDOMARET",
     "alamat": "JL. CIGADUNG RAYA TIMUR",
-    "lat": -6.8881074,
-    "lon": 107.6299728,
+    "lat": -6.8822644,
+    "lon": 107.6328777,
     "geo_status": "EXACT"
   },
   {
@@ -501,8 +501,8 @@
     "kelurahan": "CIHAURGEULIS",
     "gerai": "INDOMARET",
     "alamat": "JL. BRIGJEN KATAMSO",
-    "lat": -6.8992872,
-    "lon": 107.6276881,
+    "lat": -6.8986625,
+    "lon": 107.6330502,
     "geo_status": "KELURAHAN"
   },
   {
@@ -534,8 +534,8 @@
     "kelurahan": "SUKALUYU",
     "gerai": "INDOMARET",
     "alamat": "JL. CIKUTRA BARAT",
-    "lat": -6.8919823,
-    "lon": 107.6289442,
+    "lat": -6.8925052,
+    "lon": 107.6349447,
     "geo_status": "EXACT"
   },
   {
@@ -545,8 +545,8 @@
     "kelurahan": "ANTAPANI WETAN",
     "gerai": "INDOMARET",
     "alamat": "JI. TERUSAN JAKARTA NO.313",
-    "lat": -6.9155321,
-    "lon": 107.6675915,
+    "lat": -6.9135236,
+    "lon": 107.6445881,
     "geo_status": "EXACT"
   },
   {
@@ -567,8 +567,8 @@
     "kelurahan": "ANTAPANI TENGAH",
     "gerai": "INDOMARET",
     "alamat": "JI. TERUSAN JAKARTA NO.108",
-    "lat": -6.9136539,
-    "lon": 107.6445583,
+    "lat": -6.9135236,
+    "lon": 107.6445881,
     "geo_status": "EXACT"
   },
   {
@@ -589,8 +589,8 @@
     "kelurahan": "ANTAPANI KIDUL",
     "gerai": "INDOMARET",
     "alamat": "JI. PURWAKARTA",
-    "lat": -6.9153852,
-    "lon": 107.6532931,
+    "lat": -6.9144672,
+    "lon": 107.6523625,
     "geo_status": "EXACT"
   },
   {
@@ -633,7 +633,7 @@
     "kelurahan": "HEGARMANAH",
     "gerai": "INDOMARET",
     "alamat": "JL. CIUMBULEUIT NO. 51",
-    "lat": -6.8811742,
+    "lat": -6.8811743,
     "lon": 107.6039871,
     "geo_status": "EXACT"
   },
@@ -644,8 +644,8 @@
     "kelurahan": "HEGARMANAH",
     "gerai": "INDOMARET",
     "alamat": "JL. CIUMBULEUIT NO. 73",
-    "lat": -6.8727571,
-    "lon": 107.6050204,
+    "lat": -6.8638235,
+    "lon": 107.6051249,
     "geo_status": "EXACT"
   },
   {
@@ -655,8 +655,8 @@
     "kelurahan": "CIUMBULEUIT",
     "gerai": "INDOMARET",
     "alamat": "JL. CIUMBULEUIT RW 03",
-    "lat": -6.8727571,
-    "lon": 107.6050204,
+    "lat": -6.8811743,
+    "lon": 107.6039871,
     "geo_status": "EXACT"
   },
   {
@@ -677,8 +677,8 @@
     "kelurahan": "PASIRJATI",
     "gerai": "INDOMARET",
     "alamat": "JL. NAGROG I",
-    "lat": -6.9000202,
-    "lon": 107.7171179,
+    "lat": -6.9052849,
+    "lon": 107.7140382,
     "geo_status": "EXACT"
   },
   {
@@ -743,8 +743,8 @@
     "kelurahan": "CARINGIN",
     "gerai": "INDOMARET",
     "alamat": "JL. HOLIS NO. 220",
-    "lat": -6.9238229,
-    "lon": 107.5750811,
+    "lat": -6.9345761,
+    "lon": 107.5713954,
     "geo_status": "EXACT"
   },
   {
@@ -765,8 +765,8 @@
     "kelurahan": "CIBUNTU",
     "gerai": "INDOMARET",
     "alamat": "JL. CIJERAH NO. 169",
-    "lat": -6.934485,
-    "lon": 107.5647821,
+    "lat": -6.9269212,
+    "lon": 107.5656314,
     "geo_status": "EXACT"
   },
   {
@@ -798,8 +798,8 @@
     "kelurahan": "CIGONDEWAH KIDUL",
     "gerai": "INDOMARET",
     "alamat": "JL. CIGONDEWAH  NO. 38/39",
-    "lat": -6.9368268,
-    "lon": 107.5661473,
+    "lat": -6.9505936,
+    "lon": 107.5652055,
     "geo_status": "EXACT"
   },
   {
@@ -919,8 +919,8 @@
     "kelurahan": "BABAKAN SURABAYA",
     "gerai": "INDOMARET",
     "alamat": "JL. AHMAD YANI NO. 582",
-    "lat": -6.9049018,
-    "lon": 107.6504753,
+    "lat": -6.9057248,
+    "lon": 107.6489087,
     "geo_status": "EXACT"
   },
   {
@@ -930,8 +930,8 @@
     "kelurahan": "ANCOL",
     "gerai": "INDOMARET",
     "alamat": "JL. MOCH. RAMDHAN",
-    "lat": -6.9328805,
-    "lon": 107.6126305,
+    "lat": -6.9400415,
+    "lon": 107.6157914,
     "geo_status": "KELURAHAN"
   },
   {
@@ -963,8 +963,8 @@
     "kelurahan": "BALONG GEDE",
     "gerai": "INDOMARET",
     "alamat": "JL. BALONGGEDE",
-    "lat": -6.9266635,
-    "lon": 107.6070841,
+    "lat": -6.9239393,
+    "lon": 107.6075786,
     "geo_status": "EXACT"
   },
   {
@@ -974,8 +974,8 @@
     "kelurahan": "CISEUREUH",
     "gerai": "INDOMARET",
     "alamat": "JL. MOH TOHA",
-    "lat": -6.9522686,
-    "lon": 107.6102061,
+    "lat": -6.9463679,
+    "lon": 107.6120426,
     "geo_status": "KELURAHAN"
   },
   {
@@ -996,8 +996,8 @@
     "kelurahan": "CIGERELENG",
     "gerai": "INDOMARET",
     "alamat": "JL. SRIWIJAYA",
-    "lat": -6.9457905,
-    "lon": 107.6128221,
+    "lat": -6.9408433,
+    "lon": 107.6128274,
     "geo_status": "EXACT"
   },
   {
@@ -1007,8 +1007,8 @@
     "kelurahan": "CIATEUL",
     "gerai": "INDOMARET",
     "alamat": "JL. BKR NO. 178",
-    "lat": -6.9377868,
-    "lon": 107.6113565,
+    "lat": -6.9376307,
+    "lon": 107.6093671,
     "geo_status": "EXACT"
   },
   {
@@ -1051,8 +1051,8 @@
     "kelurahan": "PUNGKUR",
     "gerai": "INDOMARET",
     "alamat": "JL. PUNGKUR",
-    "lat": -6.9272908,
-    "lon": 107.6048051,
+    "lat": -6.9271132,
+    "lon": 107.6026716,
     "geo_status": "EXACT"
   },
   {
@@ -1095,8 +1095,8 @@
     "kelurahan": "HUSEN SASTRANEGARA",
     "gerai": "ALFAMART",
     "alamat": "JL. ABDULRACHMAN SALEH  NO 40  RW 11",
-    "lat": -6.9070048,
-    "lon": 107.5858523,
+    "lat": -6.9093382,
+    "lon": 107.5856274,
     "geo_status": "KELURAHAN"
   },
   {
@@ -1106,8 +1106,8 @@
     "kelurahan": "HUSEN SASTRANEGARA",
     "gerai": "ALFAMART",
     "alamat": "JL. ABDULRACHMAN SALEH  NO 153 RW 03",
-    "lat": -6.9070048,
-    "lon": 107.5858523,
+    "lat": -6.9093382,
+    "lon": 107.5856274,
     "geo_status": "KELURAHAN"
   },
   {
@@ -1117,8 +1117,8 @@
     "kelurahan": "ARJUNA",
     "gerai": "ALFAMART",
     "alamat": "JL. PAJAJARAN RW 02",
-    "lat": -6.9042725,
-    "lon": 107.5802252,
+    "lat": -6.9068774,
+    "lon": 107.6002399,
     "geo_status": "EXACT"
   },
   {
@@ -1128,8 +1128,8 @@
     "kelurahan": "ARJUNA",
     "gerai": "ALFAMART",
     "alamat": "JL. PAJAJARAN NO 47 RW 05",
-    "lat": -6.9042725,
-    "lon": 107.5802252,
+    "lat": -6.9072026,
+    "lon": 107.6044853,
     "geo_status": "EXACT"
   },
   {
@@ -1139,8 +1139,8 @@
     "kelurahan": "PAJAJARAN",
     "gerai": "ALFAMART",
     "alamat": "JL. BALADEWA",
-    "lat": -6.9042525,
-    "lon": 107.5904477,
+    "lat": -6.9010669,
+    "lon": 107.5908153,
     "geo_status": "EXACT"
   },
   {
@@ -1150,8 +1150,8 @@
     "kelurahan": "PASIRKALIKI",
     "gerai": "ALFAMART",
     "alamat": "JL. KEB.KAWUNG JL.PAJAJARAN",
-    "lat": -6.9006206,
-    "lon": 107.5976836,
+    "lat": -6.9077343,
+    "lon": 107.6025329,
     "geo_status": "KELURAHAN"
   },
   {
@@ -1161,8 +1161,8 @@
     "kelurahan": "PAMOYANAN",
     "gerai": "ALFAMART",
     "alamat": "JL. DR.DJUNJUNAN",
-    "lat": -6.9001417,
-    "lon": 107.5963217,
+    "lat": -6.896231,
+    "lon": 107.5902393,
     "geo_status": "EXACT"
   },
   {
@@ -1205,8 +1205,8 @@
     "kelurahan": "ISOLA",
     "gerai": "ALFAMART",
     "alamat": "JL. SERSAN BAJURI RT08/04",
-    "lat": -6.8572736,
-    "lon": 107.5936152,
+    "lat": -6.8556601,
+    "lon": 107.5922245,
     "geo_status": "EXACT"
   },
   {
@@ -1216,8 +1216,8 @@
     "kelurahan": "ISOLA",
     "gerai": "ALFAMART",
     "alamat": "JL.GEGER KALONG GIRANG RT 03/06",
-    "lat": -6.8900752,
-    "lon": 107.5805675,
+    "lat": -6.8892912,
+    "lon": 107.5887051,
     "geo_status": "KECAMATAN"
   },
   {
@@ -1227,8 +1227,8 @@
     "kelurahan": "GEGERKALONG",
     "gerai": "ALFAMART",
     "alamat": "JL. TERUSAN PAK GATOT RAYA",
-    "lat": -6.8900752,
-    "lon": 107.5805675,
+    "lat": -6.8892912,
+    "lon": 107.5887051,
     "geo_status": "KECAMATAN"
   },
   {
@@ -1238,8 +1238,8 @@
     "kelurahan": "GEGERKALONG",
     "gerai": "ALFAMART",
     "alamat": "JL SINDANG SIRNA RT 005/RW 006",
-    "lat": -6.8780031,
-    "lon": 107.5924657,
+    "lat": -6.877794,
+    "lon": 107.5910077,
     "geo_status": "EXACT"
   },
   {
@@ -1249,8 +1249,8 @@
     "kelurahan": "GEGERKALONG",
     "gerai": "ALFAMART",
     "alamat": "JL GEGERKALONG HILIR RT 002/RW 007",
-    "lat": -6.8900752,
-    "lon": 107.5805675,
+    "lat": -6.8892912,
+    "lon": 107.5887051,
     "geo_status": "KECAMATAN"
   },
   {
@@ -1304,8 +1304,8 @@
     "kelurahan": "CAMPAKA",
     "gerai": "ALFAMART",
     "alamat": "JL. RAYA   CIBEUREUM NO. 60",
-    "lat": -6.9025616,
-    "lon": 107.5702858,
+    "lat": -6.8980404,
+    "lon": 107.5631498,
     "geo_status": "KELURAHAN"
   },
   {
@@ -1326,8 +1326,8 @@
     "kelurahan": "MALEBER",
     "gerai": "ALFAMART",
     "alamat": "JL.   RAJAWALI BARAT NO.75, MALEBER, KEC. ANDIR, KOTA BANDUNG, JAWA BARAT 40184",
-    "lat": -6.910533,
-    "lon": 107.5692144,
+    "lat": -6.9124959,
+    "lon": 107.5741465,
     "geo_status": "EXACT"
   },
   {
@@ -1337,8 +1337,8 @@
     "kelurahan": "CIROYOM",
     "gerai": "ALFAMART",
     "alamat": "JL.CIROYOM  RT.01/08",
-    "lat": -6.9118712,
-    "lon": 107.58462,
+    "lat": -6.9137805,
+    "lon": 107.5879045,
     "geo_status": "EXACT"
   },
   {
@@ -1359,8 +1359,8 @@
     "kelurahan": "KEBON JERUK",
     "gerai": "ALFAMART",
     "alamat": "JL.   SUNIARAJA, JL. KEBON JATI,JL. GARDUJATI, JL SARITEM, KOMP. PASKAL HYPERSQUARE",
-    "lat": -6.9156993,
-    "lon": 107.6052484,
+    "lat": -6.9154849,
+    "lon": 107.6062665,
     "geo_status": "EXACT"
   },
   {
@@ -1370,8 +1370,8 @@
     "kelurahan": "KUJANGSARI",
     "gerai": "ALFAMART",
     "alamat": "JL. TRS. LOGAM RW 05",
-    "lat": -6.9649738,
-    "lon": 107.6381537,
+    "lat": -6.9627065,
+    "lon": 107.6473605,
     "geo_status": "KELURAHAN"
   },
   {
@@ -1381,8 +1381,8 @@
     "kelurahan": "KUJANGSARI",
     "gerai": "ALFAMART",
     "alamat": "JL. TRS. LOGAM RW 06",
-    "lat": -6.9649738,
-    "lon": 107.6381537,
+    "lat": -6.9627065,
+    "lon": 107.6473605,
     "geo_status": "KELURAHAN"
   },
   {
@@ -1425,8 +1425,8 @@
     "kelurahan": "BINONG",
     "gerai": "ALFAMART",
     "alamat": "JL. IBRAHIM ADJIE",
-    "lat": -6.9135227,
-    "lon": 107.643646,
+    "lat": -6.9137193,
+    "lon": 107.6436645,
     "geo_status": "EXACT"
   },
   {
@@ -1447,8 +1447,8 @@
     "kelurahan": "CIBANGKONG",
     "gerai": "ALFAMART",
     "alamat": "JL. GATOT SUBROTO NO.225",
-    "lat": -6.9225477,
-    "lon": 107.6188122,
+    "lat": -6.9238806,
+    "lon": 107.6247242,
     "geo_status": "EXACT"
   },
   {
@@ -1469,8 +1469,8 @@
     "kelurahan": "PAKEMITAN",
     "gerai": "ALFAMART",
     "alamat": "JL. RUMAH SAKIT",
-    "lat": -6.9147853,
-    "lon": 107.6993878,
+    "lat": -6.898179,
+    "lon": 107.5993518,
     "geo_status": "EXACT"
   },
   {
@@ -1480,8 +1480,8 @@
     "kelurahan": "BABAKAN PENGHULU",
     "gerai": "ALFAMART",
     "alamat": "JL. SOEKARNO HATTA NO.791",
-    "lat": -6.9376346,
-    "lon": 107.6859559,
+    "lat": -6.9372997,
+    "lon": 107.687309,
     "geo_status": "EXACT"
   },
   {
@@ -1502,8 +1502,8 @@
     "kelurahan": "BRAGA",
     "gerai": "ALFAMART",
     "alamat": "JL. BRAGA 66 BANDUNG",
-    "lat": -6.916285,
-    "lon": 107.6089686,
+    "lat": -6.919146,
+    "lon": 107.6098034,
     "geo_status": "EXACT"
   },
   {
@@ -1513,8 +1513,8 @@
     "kelurahan": "BRAGA",
     "gerai": "ALFAMART",
     "alamat": "JL. ASIA AFRIKA NO. 15 - 17 BANDUNG",
-    "lat": -6.9212069,
-    "lon": 107.6075011,
+    "lat": -6.9212483,
+    "lon": 107.6079249,
     "geo_status": "EXACT"
   },
   {
@@ -1546,8 +1546,8 @@
     "kelurahan": "MERDEKA",
     "gerai": "ALFAMART",
     "alamat": "JL. RE. MARTADINATA 162",
-    "lat": -6.9064588,
-    "lon": 107.6147342,
+    "lat": -6.9148247,
+    "lon": 107.6295867,
     "geo_status": "EXACT"
   },
   {
@@ -1590,8 +1590,8 @@
     "kelurahan": "PANJUNAN",
     "gerai": "ALFAMART",
     "alamat": "JL. KOPO NO. 62",
-    "lat": -6.9459244,
-    "lon": 107.5894637,
+    "lat": -6.9282931,
+    "lon": 107.597792,
     "geo_status": "EXACT"
   },
   {
@@ -1601,8 +1601,8 @@
     "kelurahan": "PANJUNAN",
     "gerai": "ALFAMART",
     "alamat": "JL. BOJONGLOA",
-    "lat": -6.926876,
-    "lon": 107.5994349,
+    "lat": -6.9292054,
+    "lon": 107.5994687,
     "geo_status": "EXACT"
   },
   {
@@ -1612,8 +1612,8 @@
     "kelurahan": "CIBADAK",
     "gerai": "ALFAMART",
     "alamat": "JL. JENDRAL SUDIRMAN NO. 213",
-    "lat": -6.9187384,
-    "lon": 107.5864712,
+    "lat": -6.9130616,
+    "lon": 107.5706815,
     "geo_status": "EXACT"
   },
   {
@@ -1623,8 +1623,8 @@
     "kelurahan": "CIBADAK",
     "gerai": "ALFAMART",
     "alamat": "JL. JENDRAL SUDIRMAN NO. 279",
-    "lat": -6.9183127,
-    "lon": 107.5831079,
+    "lat": -6.9131197,
+    "lon": 107.5706178,
     "geo_status": "EXACT"
   },
   {
@@ -1667,8 +1667,8 @@
     "kelurahan": "CIGADUNG",
     "gerai": "ALFAMART",
     "alamat": "JL. CIGADUNG RAYA TIMUR",
-    "lat": -6.8881074,
-    "lon": 107.6299728,
+    "lat": -6.8822644,
+    "lon": 107.6328777,
     "geo_status": "EXACT"
   },
   {
@@ -1678,8 +1678,8 @@
     "kelurahan": "CIGADUNG",
     "gerai": "ALFAMART",
     "alamat": "JL. CIKUTRA BARAT",
-    "lat": -6.8919823,
-    "lon": 107.6289442,
+    "lat": -6.8925052,
+    "lon": 107.6349447,
     "geo_status": "EXACT"
   },
   {
@@ -1689,8 +1689,8 @@
     "kelurahan": "CIHAURGEULIS",
     "gerai": "ALFAMART",
     "alamat": "JL. SUPRATMAN RT  01 RW 12",
-    "lat": -6.9105312,
-    "lon": 107.632563,
+    "lat": -6.9073518,
+    "lon": 107.6303773,
     "geo_status": "EXACT"
   },
   {
@@ -1711,8 +1711,8 @@
     "kelurahan": "NEGLASARI",
     "gerai": "ALFAMART",
     "alamat": "JL. CIKUTRA NO.151 RT 02/05",
-    "lat": -6.8944343,
-    "lon": 107.6416241,
+    "lat": -6.8935274,
+    "lon": 107.6404211,
     "geo_status": "EXACT"
   },
   {
@@ -1722,8 +1722,8 @@
     "kelurahan": "SUKALUYU",
     "gerai": "ALFAMART",
     "alamat": "JL. SURAPATI RW 02",
-    "lat": -6.8988518,
-    "lon": 107.6146585,
+    "lat": -6.8991525,
+    "lon": 107.6164489,
     "geo_status": "EXACT"
   },
   {
@@ -1744,8 +1744,8 @@
     "kelurahan": "SUKALUYU",
     "gerai": "ALFAMART",
     "alamat": "JL. CIKUTRA BARAT RW 07",
-    "lat": -6.8919823,
-    "lon": 107.6289442,
+    "lat": -6.8925052,
+    "lon": 107.6349447,
     "geo_status": "EXACT"
   },
   {
@@ -1755,8 +1755,8 @@
     "kelurahan": "ANTAPANI WETAN",
     "gerai": "ALFAMART",
     "alamat": "JI. TERUSAN JAKARTA NO.333-339",
-    "lat": -6.9131359,
-    "lon": 107.6581366,
+    "lat": -6.9150048,
+    "lon": 107.6659592,
     "geo_status": "EXACT"
   },
   {
@@ -1766,8 +1766,8 @@
     "kelurahan": "ANTAPANI TENGAH",
     "gerai": "ALFAMART",
     "alamat": "JI. TERUSAN JAKARTA",
-    "lat": -6.9123983,
-    "lon": 107.6535988,
+    "lat": -6.9135286,
+    "lon": 107.6453225,
     "geo_status": "EXACT"
   },
   {
@@ -1777,8 +1777,8 @@
     "kelurahan": "ANTAPANI TENGAH",
     "gerai": "ALFAMART",
     "alamat": "JI. TERUSAN JAKARTA NO.333-339",
-    "lat": -6.9131359,
-    "lon": 107.6581366,
+    "lat": -6.9150048,
+    "lon": 107.6659592,
     "geo_status": "EXACT"
   },
   {
@@ -1810,8 +1810,8 @@
     "kelurahan": "ANTAPANI TENGAH",
     "gerai": "ALFAMART",
     "alamat": "JI. JAKARTA NO.286-288",
-    "lat": -6.9123983,
-    "lon": 107.6535988,
+    "lat": -6.9144555,
+    "lon": 107.6634673,
     "geo_status": "EXACT"
   },
   {
@@ -1865,8 +1865,8 @@
     "kelurahan": "HEGARMANAH",
     "gerai": "ALFAMART",
     "alamat": "JL. DR SETIABUDI NO. 42 - 46",
-    "lat": -6.8643137,
-    "lon": 107.5942236,
+    "lat": -6.8779014,
+    "lon": 107.5976643,
     "geo_status": "EXACT"
   },
   {
@@ -1876,8 +1876,8 @@
     "kelurahan": "LEDENG",
     "gerai": "ALFAMART",
     "alamat": "JL. DR. SETIABUDI NO.284 RT 01 RW 03",
-    "lat": -6.8588027,
-    "lon": 107.5949364,
+    "lat": -6.8643137,
+    "lon": 107.5942236,
     "geo_status": "EXACT"
   },
   {
@@ -1898,8 +1898,8 @@
     "kelurahan": "PASIRJATI",
     "gerai": "ALFAMART",
     "alamat": "JL. NAGROG I RT 05/07",
-    "lat": -6.9000202,
-    "lon": 107.7171179,
+    "lat": -6.9052849,
+    "lon": 107.7140382,
     "geo_status": "EXACT"
   },
   {
@@ -1964,8 +1964,8 @@
     "kelurahan": "WARUNG MUNCANG",
     "gerai": "ALFAMART",
     "alamat": "JL. SOEKARNO HATTA NO. 63",
-    "lat": -6.9358253,
-    "lon": 107.7082323,
+    "lat": -6.9458756,
+    "lon": 107.6406454,
     "geo_status": "EXACT"
   },
   {
@@ -1986,8 +1986,8 @@
     "kelurahan": "CARINGIN",
     "gerai": "ALFAMART",
     "alamat": "JL. CIJERAH NO. 28",
-    "lat": -6.9287166,
-    "lon": 107.5638105,
+    "lat": -6.9190593,
+    "lon": 107.5687482,
     "geo_status": "EXACT"
   },
   {
@@ -1997,8 +1997,8 @@
     "kelurahan": "CIBUNTU",
     "gerai": "ALFAMART",
     "alamat": "JL. SOEKARNO HATTA DI POM BENSIN PANGHEGAR RT 01/03",
-    "lat": -6.918002,
-    "lon": 107.5731057,
+    "lat": -6.9181464,
+    "lon": 107.5733315,
     "geo_status": "KELURAHAN"
   },
   {
@@ -2030,8 +2030,8 @@
     "kelurahan": "CIGONDEWAH KIDUL",
     "gerai": "ALFAMART",
     "alamat": "JL. HOLIS RT 02 RW 01",
-    "lat": -6.9238229,
-    "lon": 107.5750811,
+    "lat": -6.9387227,
+    "lon": 107.5693593,
     "geo_status": "EXACT"
   },
   {
@@ -2162,8 +2162,8 @@
     "kelurahan": "BALONG GEDE",
     "gerai": "ALFAMART",
     "alamat": "JL. PASUNDAN RW 05",
-    "lat": -6.9320178,
-    "lon": 107.6084093,
+    "lat": -6.9297811,
+    "lon": 107.6084506,
     "geo_status": "EXACT"
   },
   {
@@ -2173,8 +2173,8 @@
     "kelurahan": "BALONG GEDE",
     "gerai": "ALFAMART",
     "alamat": "JL. DEWI SARTIKA RW 04",
-    "lat": -6.9305735,
-    "lon": 107.6055534,
+    "lat": -6.9229619,
+    "lon": 107.6063423,
     "geo_status": "EXACT"
   },
   {
@@ -2184,8 +2184,8 @@
     "kelurahan": "BALONG GEDE",
     "gerai": "ALFAMART",
     "alamat": "JL. PUNGKUR RW 03",
-    "lat": -6.9272908,
-    "lon": 107.6048051,
+    "lat": -6.9271132,
+    "lon": 107.6026716,
     "geo_status": "EXACT"
   },
   {
@@ -2195,8 +2195,8 @@
     "kelurahan": "BALONG GEDE",
     "gerai": "ALFAMART",
     "alamat": "JL. PUNGKUR RW 07",
-    "lat": -6.9272908,
-    "lon": 107.6048051,
+    "lat": -6.9271132,
+    "lon": 107.6026716,
     "geo_status": "EXACT"
   },
   {
@@ -2206,8 +2206,8 @@
     "kelurahan": "CISEUREUH",
     "gerai": "ALFAMART",
     "alamat": "JL. MOH TOHA RW. 04",
-    "lat": -6.9522686,
-    "lon": 107.6102061,
+    "lat": -6.9463679,
+    "lon": 107.6120426,
     "geo_status": "KELURAHAN"
   },
   {
@@ -2217,8 +2217,8 @@
     "kelurahan": "CISEUREUH",
     "gerai": "ALFAMART",
     "alamat": "JL. MOH TOHA RW. 05",
-    "lat": -6.9522686,
-    "lon": 107.6102061,
+    "lat": -6.9463679,
+    "lon": 107.6120426,
     "geo_status": "KELURAHAN"
   },
   {
@@ -2228,8 +2228,8 @@
     "kelurahan": "CIGERELENG",
     "gerai": "ALFAMART",
     "alamat": "JL. SRIWIJAYA RW 10",
-    "lat": -6.9457905,
-    "lon": 107.6128221,
+    "lat": -6.9408433,
+    "lon": 107.6128274,
     "geo_status": "EXACT"
   },
   {
@@ -2241,6 +2241,380 @@
     "alamat": "JL. MOH. TOOHA RW 04",
     "lat": -6.9455985,
     "lon": 107.6114636,
+    "geo_status": "KELURAHAN"
+  },
+  {
+    "id": 205,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CIBIRU",
+    "kelurahan": "CIPADUNG",
+    "gerai": "YOMART",
+    "alamat": "JL. DESA CIPADUNG RT. 003 RW. 04",
+    "lat": -6.9237623,
+    "lon": 107.719614,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 206,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CICENDO",
+    "kelurahan": "ARJUNA",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. PASIRKALIKI NO 71 RW 06",
+    "lat": -6.9098604,
+    "lon": 107.6041676,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 207,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CICENDO",
+    "kelurahan": "ARJUNA",
+    "gerai": "LAWSON",
+    "alamat": "JL. PAJAJARAN 85 D",
+    "lat": -6.9072026,
+    "lon": 107.6044853,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 208,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CICENDO",
+    "kelurahan": "PASIRKALIKI",
+    "gerai": "LAWSON",
+    "alamat": "JL. PASIRKALIKI NO.69",
+    "lat": -6.9119462,
+    "lon": 107.6023821,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 209,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CICENDO",
+    "kelurahan": "PAMOYANAN",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. PASIRKALIKI",
+    "lat": -6.9128158,
+    "lon": 107.6021742,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 210,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CICENDO",
+    "kelurahan": "SUKARAJA",
+    "gerai": "YOMART",
+    "alamat": "JL. GUNUNG BATU RT 03 RW 07",
+    "lat": -6.889072,
+    "lon": 107.5645039,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 211,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUKASARI",
+    "kelurahan": "ISOLA",
+    "gerai": "YOMART",
+    "alamat": "JL. SERSAN BAJURI RT01/04",
+    "lat": -6.8556601,
+    "lon": 107.5922245,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 212,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUKASARI",
+    "kelurahan": "GEGERKALONG",
+    "gerai": "YOMART",
+    "alamat": "JL. GEGERKALONG GIRANG",
+    "lat": -6.8645221,
+    "lon": 107.5928088,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 213,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUKASARI",
+    "kelurahan": "SARIJADI",
+    "gerai": "YOMART",
+    "alamat": "JL. RAYA SARIJADI",
+    "lat": -6.8731027,
+    "lon": 107.5804293,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 214,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUKASARI",
+    "kelurahan": "SARIJADI",
+    "gerai": "YOMART",
+    "alamat": "JL. SARIMANAH RAYA NO. 106",
+    "lat": -6.8816157,
+    "lon": 107.5784171,
+    "geo_status": "KELURAHAN"
+  },
+  {
+    "id": 215,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "ANDIR",
+    "kelurahan": "KEBON JERUK",
+    "gerai": "YOMART",
+    "alamat": "JL.   GARDUJATI",
+    "lat": -6.9176484,
+    "lon": 107.5982859,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 216,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "BANDUNG KIDUL",
+    "kelurahan": "BATUNUNGGAL",
+    "gerai": "YOMART",
+    "alamat": "JL. BATU INDAH RAYA NO. 431",
+    "lat": -6.9531422,
+    "lon": 107.633182,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 217,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "BATUNUNGGAL",
+    "kelurahan": "BINONG",
+    "gerai": "CIRCLE  K",
+    "alamat": "JL. IBRAHIM ADJIE",
+    "lat": -6.9137193,
+    "lon": 107.6436645,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 218,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "BATUNUNGGAL",
+    "kelurahan": "MALEER",
+    "gerai": "LAWSON",
+    "alamat": "JL. GATOT SUBROTO NO.321",
+    "lat": -6.9225477,
+    "lon": 107.6188122,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 219,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUMUR BANDUNG",
+    "kelurahan": "BRAGA",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. BRAGA NO 97 BANDUNG",
+    "lat": -6.916285,
+    "lon": 107.6089686,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 220,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUMUR BANDUNG",
+    "kelurahan": "BRAGA",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. BRAGA NO 92 BANDUNG",
+    "lat": -6.916285,
+    "lon": 107.6089686,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 221,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "ASTANAANYAR",
+    "kelurahan": "CIBADAK",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. JENDRAL SUDIRMAN NO. 28",
+    "lat": -6.9154465,
+    "lon": 107.5719838,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 222,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "SUMUR BANDUNG",
+    "kelurahan": "BABAKAN CIAMIS",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. ACEH",
+    "lat": -6.9097914,
+    "lon": 107.6235684,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 223,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "ANTAPANI",
+    "kelurahan": "ANTAPANI WETAN",
+    "gerai": "YOMART",
+    "alamat": "JI. A.H. NASUTION NO.22",
+    "lat": -6.9134651,
+    "lon": 107.6658985,
+    "geo_status": "KELURAHAN"
+  },
+  {
+    "id": 224,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "ANTAPANI",
+    "kelurahan": "ANTAPANI WETAN",
+    "gerai": "LAWSON",
+    "alamat": "JI. TERUSAN JAKARTA NO. 319",
+    "lat": -6.9135236,
+    "lon": 107.6445881,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 225,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "ANTAPANI",
+    "kelurahan": "ANTAPANI KIDUL",
+    "gerai": "YOMART",
+    "alamat": "JI. INDRAMAYU",
+    "lat": -6.9185739,
+    "lon": 107.6575035,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 226,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CIDADAP",
+    "kelurahan": "HEGARMANAH",
+    "gerai": "YOMART",
+    "alamat": "JL. CIUMBULEUIT NO. 113",
+    "lat": -6.8829994,
+    "lon": 107.6047995,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 227,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "CIDADAP",
+    "kelurahan": "HEGARMANAH",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. CIUMBULEUIT NO. 153",
+    "lat": -6.8727571,
+    "lon": 107.6050204,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 228,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "UJUNG BERUNG",
+    "kelurahan": "PASIR ENDAH",
+    "gerai": "YOMART",
+    "alamat": "JL. CIJAMBE NO. 4",
+    "lat": -6.9084912,
+    "lon": 107.6907852,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 229,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "UJUNG BERUNG",
+    "kelurahan": "PASIRJATI",
+    "gerai": "YOMART",
+    "alamat": "JL. NAGROG RT 01/04",
+    "lat": -6.9000202,
+    "lon": 107.7171179,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 230,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "UJUNG BERUNG",
+    "kelurahan": "PASIR WANGI",
+    "gerai": "YOMART",
+    "alamat": "JL. CINANGKA",
+    "lat": -6.9036677,
+    "lon": 107.7043738,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 231,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "GEDEBAGE",
+    "kelurahan": "CISARANTEN KIDUL",
+    "gerai": "YOMART",
+    "alamat": "JL. ARUM RAYA",
+    "lat": -6.9417209,
+    "lon": 107.6821065,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 232,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "BANDUNG KULON",
+    "kelurahan": "CARINGIN",
+    "gerai": "YOMART",
+    "alamat": "JL. HOLIS CARINGIN",
+    "lat": -6.9345761,
+    "lon": 107.5713954,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 233,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "KIARACONDONG",
+    "kelurahan": "KEBON JAYANTI",
+    "gerai": "YOMART",
+    "alamat": "JL. PSM NO. 30",
+    "lat": -6.9297574,
+    "lon": 107.6472746,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 234,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "REGOL",
+    "kelurahan": "ANCOL",
+    "gerai": "YOMART",
+    "alamat": "JL. MOCH. RAMDHAN RW 03",
+    "lat": -6.9400415,
+    "lon": 107.6157914,
+    "geo_status": "KELURAHAN"
+  },
+  {
+    "id": 235,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "REGOL",
+    "kelurahan": "CIGERELENG",
+    "gerai": "YOMART",
+    "alamat": "JL. KEMBAR II RW 06",
+    "lat": -6.9436493,
+    "lon": 107.6104208,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 236,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "REGOL",
+    "kelurahan": "CIGERELENG",
+    "gerai": "CIRCLE K",
+    "alamat": "JL. MOH. TOHA RW 05",
+    "lat": -6.9455985,
+    "lon": 107.6114636,
+    "geo_status": "KELURAHAN"
+  },
+  {
+    "id": 237,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "REGOL",
+    "kelurahan": "CIATEUL",
+    "gerai": "YOMART",
+    "alamat": "JL. CIATEUL NO. 82",
+    "lat": -6.9319328,
+    "lon": 107.6119684,
+    "geo_status": "EXACT"
+  },
+  {
+    "id": 238,
+    "kota": "KOTA BANDUNG",
+    "kecamatan": "REGOL",
+    "kelurahan": "CIATEUL",
+    "gerai": "YOMART",
+    "alamat": "JL. OTISTA NO. 515A",
+    "lat": -6.9342726,
+    "lon": 107.6098724,
     "geo_status": "KELURAHAN"
   }
 ]
