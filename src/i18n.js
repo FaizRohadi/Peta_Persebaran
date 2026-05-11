@@ -1,6 +1,6 @@
 export const T = {
   id: {
-    nav_home:"Beranda", nav_map:"Peta", nav_stats:"Statistik", brand_sub:"TPBW Kota Bandung",
+    nav_home:"Beranda", nav_profile: "Profil",nav_map:"Peta", nav_stats:"Statistik", brand_sub:"TPBW Kota Bandung",
     hero_badge:"Data TPBW 2024 — Kota Bandung", hero_title_1:"Peta Sebaran", hero_title_2:"Minimarket",
     hero_sub:"Sistem informasi geospasial persebaran gerai minimarket di Kota Bandung. Visualisasi interaktif dengan radius cakupan 1 km, live tracking lokasi terdekat, dan analisis statistik lengkap.",
     hero_btn_map:"Lihat Peta", hero_btn_stats:"Statistik",
@@ -28,7 +28,7 @@ export const T = {
     stats_24h:"Buka 24 Jam", stats_limited:"Jam Terbatas",
   },
   en: {
-    nav_home:"Home", nav_map:"Map", nav_stats:"Statistics", brand_sub:"TPBW Bandung City",
+    nav_home:"Home", nav_profile: "Profile",nav_map:"Map", nav_stats:"Statistics", brand_sub:"TPBW Bandung City",
     hero_badge:"TPBW Data 2024 — Bandung City", hero_title_1:"Distribution Map", hero_title_2:"Minimarkets",
     hero_sub:"A geospatial information system for minimarket distribution across Bandung City. Interactive visualization with 1 km radius coverage, live nearest-store tracking, opening hours filter, and comprehensive statistics.",
     hero_btn_map:"View Map", hero_btn_stats:"Statistics",
