@@ -18,7 +18,7 @@ export const GERAI_WEBSITES = {
   },
   "YOMART": {
     official: "https://yomart.co.id",
-    promo:    null,
+    promo:    "https://promo.yogyagroup.com/promo?id=8",
     app:      null,
     label:    "yomart.co.id",
   },

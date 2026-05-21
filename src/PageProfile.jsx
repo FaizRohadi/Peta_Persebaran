@@ -106,7 +106,7 @@ const PROFILES = {
     features_en: ["Authentic local minimarket of Bandung & West Java","Targeting lower-to-middle consumers","Part of Yogya Group ecosystem (trusted retail)","Focus on local daily necessity products","Local community and SME support","Competitive prices for surrounding communities","Spread across 17+ cities/regencies of West Java"],
     visi_id: "Menjadi perusahaan ritel terbaik tidak hanya di skala lokal dan nasional, tetapi juga skala global, dengan memberikan pelayanan terbaik kepada konsumen.",
     visi_en: "To become the best retail company not only at local and national scale but also globally, by providing the best service to consumers.",
-    social: { ig: "yomartofficial", twitter: null, fb: "YomartMinimarket" },
+    social: { ig: "yomart.id", twitter: null, fb: "YomartMinimarket" },
   },
 
   LAWSON: {
@@ -141,7 +141,7 @@ const PROFILES = {
     features_en: ["Fresh Onigiri & Bento made daily","Lawson Station Coffee (premium coffee)","Modern Japanese-style store concept","Ready-to-eat: bread, sandwiches, nikuman","Warm Oden (traditional Japanese food)","Bill payment & digital services","Exclusive menus in collaboration with Japanese brands"],
     visi_id: "Menjadi jaringan convenience store pilihan utama yang menghadirkan pengalaman berbelanja bergaya Jepang yang menyenangkan dan berkualitas bagi masyarakat Indonesia.",
     visi_en: "To become the preferred convenience store network delivering an enjoyable, quality Japanese-style shopping experience for Indonesian consumers.",
-    social: { ig: "lawson_indonesia", twitter: "LawsonIndo", fb: "LawsonIndonesia" },
+    social: { ig: "lawsonindonesia", twitter: "LawsonIndo", fb: "LawsonIndonesia" },
   },
 
   "CIRCLE K": {
@@ -176,7 +176,7 @@ const PROFILES = {
     features_en: ["Operating 24 hours, 7 days a week","Frozone (iconic slushie drink)","Polar Pop (customizable fountain drink)","Quality imported products from USA & Europe","Modern international-style store concept","Global partnerships with international brands","Target market: young people & urban consumers"],
     visi_id: "Menjadi convenience store pilihan nomor satu untuk gaya hidup modern yang dinamis, dengan menghadirkan produk berkualitas internasional yang mudah dijangkau.",
     visi_en: "To be the number one preferred convenience store for dynamic modern lifestyles, by delivering quality international products within easy reach.",
-    social: { ig: "circle_k_indonesia", twitter: "circlekID", fb: "CircleKIndonesia" },
+    social: { ig: "circlekid", twitter: "circlekID", fb: "CircleKIndonesia" },
   },
 };
 
