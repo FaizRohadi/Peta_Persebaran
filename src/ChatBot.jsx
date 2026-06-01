@@ -36,7 +36,7 @@ KEY DATA:
 - Total minimarket locations: ${allData.length}
 - Indomaret: ${byGerai["INDOMARET"] || 0} stores | Alfamart: ${byGerai["ALFAMART"] || 0} stores | Yomart: ${byGerai["YOMART"] || 0} stores | Circle K: ${byGerai["CIRCLE K"] || 0} stores | Lawson: ${byGerai["LAWSON"] || 0} stores
 - Districts covered: ${kecamatanList.join(", ")}
-- Data source: TPBW (Tata Pangan Berbasis Wilayah) 2024
+- Data source: TPBW (Tata Pangan Berbasis Wilayah) 2026
 
 WHAT YOU CAN HELP WITH:
 - Information about minimarket chains (Indomaret, Alfamart, Yomart, Lawson, Circle K)

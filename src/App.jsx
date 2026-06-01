@@ -9,6 +9,7 @@ import PageProfile from "./PageProfile.jsx";
 import ChatBot from "./ChatBot.jsx";
 import { GERAI_WEBSITES } from "./promos.js";
 import { isOpenNow, isAlways24h, getTodayDisplay, getWeekSchedule } from "./hours.js";
+import MarkerClusterGroup from "react-leaflet-cluster";
 
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
@@ -144,23 +145,52 @@ function Landing({allData,onNavigate,lang}){
   return(
     <div className="landing">
       <section className="hero-section">
-        <div className="hero-bg-pattern"/>
-        <div className="hero-content">
-          <span className="hero-badge">{t.hero_badge}</span>
-          <h1 className="hero-h1">{t.hero_title_1}<br/><span className="hero-gradient">{t.hero_title_2}</span></h1>
-          <p className="hero-p">{t.hero_sub}</p>
-          <div className="hero-btns">
-            <button className="btn-primary" onClick={()=>onNavigate("peta")}><IcoMap/>{t.hero_btn_map}</button>
-            <button className="btn-outline" onClick={()=>onNavigate("statistik")}><IcoStats/>{t.hero_btn_stats}</button>
-            <button className="btn-outline" onClick={()=>onNavigate("promo")}><IcoPromo/><span>{t.nav_promo || "Promo"}</span></button>
-          </div>
-          <div className="hero-stats">
-            {[{val:allData.length,label:t.total_locations},{val:byGerai["INDOMARET"]||0,label:"Indomaret"},{val:byGerai["ALFAMART"]||0,label:"Alfamart"},{val:byGerai["YOMART"]||0,label:"Yomart"},{val:byGerai["CIRCLE K"]||0,label:"Circle K"},{val:byGerai["LAWSON"]||0,label:"Lawson"},{val:districts,label:t.total_districts}].map((s,i)=>(
-              <div key={i} className="hs-chip"><span className="hs-num">{s.val}</span><span className="hs-lbl">{s.label}</span></div>
-            ))}
-          </div>
+  <div className="hero-bg-pattern"/>
+  <div className="hero-container">
+    {/* Banner Kiri (Circle K) */}
+    <div className="hero-banner hero-banner-left">
+  <div className="banner-card image-banner">
+    <img 
+      src="/images/circle-k-promo.jpeg" 
+      alt="Circle K Promo - Froster Roster"
+      className="banner-image"
+    />
+  </div>
+</div>
+
+
+    {/* Konten Tengah (hero-highlight-box yang sudah ada) */}
+    <div className="hero-content">
+      <div className="hero-highlight-box">
+        <span className="hero-badge">{t.hero_badge}</span>
+        <h1 className="hero-h1">{t.hero_title_1}<br/><span className="hero-gradient">{t.hero_title_2}</span></h1>
+        <p className="hero-p">{t.hero_sub}</p>
+        <div className="hero-btns">
+          <button className="btn-primary" onClick={()=>onNavigate("peta")}><IcoMap/>{t.hero_btn_map}</button>
+          <button className="btn-outline" onClick={()=>onNavigate("statistik")}><IcoStats/>{t.hero_btn_stats}</button>
+          <button className="btn-outline" onClick={()=>onNavigate("promo")}><IcoPromo/><span>{t.nav_promo || "Promo"}</span></button>
         </div>
-      </section>
+        <div className="hero-stats">
+          {[{val:allData.length,label:t.total_locations},{val:byGerai["INDOMARET"]||0,label:"Indomaret"},{val:byGerai["ALFAMART"]||0,label:"Alfamart"},{val:byGerai["YOMART"]||0,label:"Yomart"},{val:byGerai["CIRCLE K"]||0,label:"Circle K"},{val:byGerai["LAWSON"]||0,label:"Lawson"},{val:districts,label:t.total_districts}].map((s,i)=>(
+            <div key={i} className="hs-chip"><span className="hs-num">{s.val}</span><span className="hs-lbl">{s.label}</span></div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    {/* Banner Kanan (Lawson) */}
+    <div className="hero-banner hero-banner-right">
+  <div className="banner-card image-banner">
+    <img 
+      src="/images/lawson-promo.jpeg" 
+      alt="Lawson Promo - Special Makin Hemat"
+      className="banner-image"
+    />
+  </div>
+</div>
+
+  </div>
+</section>
 
       <section className="land-section alt-bg">
         <div className="land-inner">
@@ -434,6 +464,7 @@ function PageMap({allData,lang}){
             );
           })}
         </MapContainer>
+        
         {tracking&&<div className="live-badge"><span className="lb-dot"/>LIVE</div>}
 
         {/* Mobile FAB filter button */}
@@ -451,6 +482,7 @@ function PageMap({allData,lang}){
           </div>
         )}
       </div>
+      
 
       {/* Mobile bottom drawer */}
       {isMobile&&(
